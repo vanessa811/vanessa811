@@ -73,3 +73,12 @@ In addition to IT, I have a background in **Transport & Logistics**, with knowle
 
 ✨ Thank you for visiting my profile!
 
+## 🛠️ Tools & Technologies
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
