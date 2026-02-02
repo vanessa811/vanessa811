@@ -31,11 +31,10 @@ In addition to IT, I have a background in **Transport & Logistics**, with knowle
 **Linux & Virtualization**
 - Linux Server (CentOS)  
 - Network and firewall configuration  
-- VMware, VirtualBox, GNS3  
+- VMware, VirtualBox
 
 **Automation & Tools**
-- PowerShell (administrative scripting)  
-- Git & GitHub  
+- PowerShell (administrative scripting)   
 - Cisco Packet Tracer  
 
 ---
