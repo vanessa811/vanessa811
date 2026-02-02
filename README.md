@@ -67,8 +67,8 @@ In addition to IT, I have a background in **Transport & Logistics**, with knowle
 
 ## **Contact**
 
-💼 LinkedIn: *(add your link)*  
-📧 Email: *(optional)*
+💼 LinkedIn: http://www.linkedin.com/in/vanessa-mouli-moudio-99561028b 
+📧 Email: vanessamoudio98@gmail.com
 
 ---
 
